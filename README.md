@@ -16,7 +16,7 @@
 Акции Virgin Australia за 2011 - 2020 годы. Источник: ASX
 Акции Virgin Galactic за 2017 - 2020 годы. Источник: NYSE
 
-Твиты собраны по следующим персонам:
+Твиты собраны по следующим персоналиям:
 
 US Business leaders
 Mark Zuckerberg- Facebook @finkd Joined February 2009 но он больше пользуется так поняла своим ФБ эккаунтом www.facebook.com/markzuckerberg
