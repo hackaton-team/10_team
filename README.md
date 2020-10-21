@@ -62,29 +62,31 @@ Reuven Rivlin @PresidentRuvi live updates from the 10th President of the State o
 |  |
 |  |__/Elon Musk
 |  |  |__elonmusk.json
+|  |  |__elonmusk.txt
 |  |  
-|  |__/Jeff Bezos
-|  |  |__JeffBezos.json
+|  |__/Bill Gates
+|  |  |__Bill Gates.json
+|  |  |__Bill Gates.txt
 |  |
 |  |__/...
 |   
 |__/Assets
 |  |  
-|  |__/AMZN
-|  |  |__котрировки компании Amazon
+|  |__/Microsoft
+|  |  |__microsoft_1986_2020.csv
 |  |
-|  |__/TSLA
-|  |  |__котировки компании Tesla
+|  |__/Tesla
+|  |  |__tesla_2010_2020.csv
 |  |
 |  |__/...
 |
 |__/People_vs_Assets
    |
-   |__/Bezos_TSLA
-   |  |__сопоставление твитов Джеффа Безоса и изменений котировок Amazon
+   |__/Microsoft_Gates
+   |  |__microsoft_gates.csv
    |
-   |__/Musk_TSLA
-   |  |__сопоставление твитов Илона Маска и изменений котировок Tesla
+   |__/Tesla_Musk
+   |  |__tesla_musk.csv
    |
    |__/...
  ```
@@ -211,8 +213,10 @@ Reuven Rivlin @PresidentRuvi live updates from the 10th President of the State o
 }
  ```
 
-### Наименования столбцов csv-файла котировок:  
+### Наименования столбцов csv-файлов котировок:
 Date,Open,High,Low,Close,Volume
+### Наименования столбцов csv-файлов курсов валют:
+Date,//Currencies//
 ### Наименования столбцов csv-файла сводной таблицы::
 Date,Open,High,Low,Close,Volume,Tweets
  
