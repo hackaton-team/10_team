@@ -19,7 +19,6 @@
 Твиты собраны по следующим персоналиям:
 
 US Business leaders
-Mark Zuckerberg- Facebook @finkd Joined February 2009 но он больше пользуется так поняла своим ФБ эккаунтом www.facebook.com/markzuckerberg
 
 Jeff Weiner- LinkedIn @jeffweiner Joined February 2009
 
@@ -44,10 +43,7 @@ Russian business leaders
 
 Oleg Tikov @olegtinkov Joined April 2009
 
-Igor Sechin @SechinIgor
-
 European politicians
-Angela Merkel Germany @AngelaMerkeICDU Joined June 2014
 
 Emmanuel Macron France @EmmanuelMacron Joined October 2013
 
