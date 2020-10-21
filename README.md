@@ -210,7 +210,9 @@ Reuven Rivlin @PresidentRuvi live updates from the 10th President of the State o
           'verified': True}}
 }
  ```
- 
+
+### Наименования столбцов csv-файла котировок:  
+Date,Open,High,Low,Close,Volume,Dividends
 ### Структура сводной таблицы:
  
 *(разместить структуру сводной таблицы)*
