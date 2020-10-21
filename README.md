@@ -218,5 +218,5 @@ Date,Open,High,Low,Close,Volume,Dividends,Stock Splits
  
 *(разместить структуру сводной таблицы)*
  
-###### Источники данных: 
+### Источники данных: 
 twitter.com, finance.yahoo.com
