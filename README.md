@@ -1,12 +1,12 @@
 
-Датасет содержит:
+### Датасет содержит:
 1. Твиты собственников и топ-менеджеров компаний, государственных деятелей.
 2. Котировки акций и курсов валют.
 3. Сопоставление твитов и изменений котировок.
 
-Датасет предназначен для исследования влияния словесных интервенций на котировки.3
+### Датасет предназначен для исследования влияния словесных интервенций на котировки.3
 
-По котировкам и акциям взяты следующие данные:
+### По котировкам и акциям взяты следующие данные:
 
 1. Курс евро к доллару за 2012 - 2020 годы. Источник: официальные данные ЕЦБ
 2. Курс шекеля к евро и доллару за 2008 - 2020 годы. Источник: официальные данные банка Израиля
@@ -16,9 +16,9 @@
 Акции Virgin Australia за 2011 - 2020 годы. Источник: ASX
 Акции Virgin Galactic за 2017 - 2020 годы. Источник: NYSE
 
-Твиты собраны по следующим персоналиям:
+### Твиты собраны по следующим персоналиям:
 
-US Business leaders
+###### US Business leaders
 
 Jeff Weiner- LinkedIn @jeffweiner Joined February 2009
 
@@ -34,16 +34,16 @@ Warren Buffett- Berkshire Hathaway @WarrenBuffett Joined April 2013
 
 Sundar Pichai- Google @sundarpichai CEO, Google and Alphabet Joined March 2008
 
-Asia/ China
+###### Asia/ China
 Jack Ma Founder of AlibabaGroup @JackMa Joined March 2020
 
 Ma Huateng @ma_tencent CEO of Tencent Holdings Limited Joined September 2017
 
-Russian business leaders
+###### Russian business leaders
 
 Oleg Tikov @olegtinkov Joined April 2009
 
-European politicians
+###### European politicians
 
 Emmanuel Macron France @EmmanuelMacron Joined October 2013
 
@@ -54,7 +54,7 @@ Benjamin Netanyahu @netanyahu Prime Minister of Israel Joined October 2008
 Reuven Rivlin @PresidentRuvi live updates from the 10th President of the State of Israel - Joined November 2014
 
 
-Структура датасета:
+### Структура датасета:
 
 /
 
@@ -94,7 +94,7 @@ Reuven Rivlin @PresidentRuvi live updates from the 10th President of the State o
 
     ...
 
-Структура json-файла твитов:
+### Структура json-файла твитов:
 
 {'2020-10-19 00:32:08':
 
