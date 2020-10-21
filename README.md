@@ -213,8 +213,7 @@ Reuven Rivlin @PresidentRuvi live updates from the 10th President of the State o
 
 ### Наименования столбцов csv-файла котировок:  
 Date,Open,High,Low,Close,Volume
-### Структура сводной таблицы:
- 
-*(разместить структуру сводной таблицы)*
+### Наименования столбцов csv-файла сводной таблицы::
+Date,Open,High,Low,Close,Volume,Tweets
  
 
