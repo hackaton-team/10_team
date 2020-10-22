@@ -13,9 +13,9 @@
 3. Акции Microsoft за 1986 - 2020 годы. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/quote/MSFT/history?p=MSFT
 4. Акции Тesla за 2010 - 2020 годы. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/quote/TSLA/history?p=TSLA
 5. Акции Virgin:
-	5.1 Акции Virgin America за 2014 - 2016 годы. Источник: NASDAQ, Investing.com https://www.investing.com/equities/virgin-america-inc-historical-data 
-	5.2 Акции Virgin Australia за 2011 - 2020 годы. Источник: ASX, Investing.com https://www.investing.com/equities/virgin-australia-historical-data 
-	5.3 Акции Virgin Galactic за 2017 - 2020 годы. Источник: NYSE, Investing.com https://www.investing.com/equities/social-capital-hedosophia-historical-data
+	5.1  Акции Virgin America за 2014 - 2016 годы. Источник: NASDAQ, Investing.com https://www.investing.com/equities/virgin-america-inc-historical-data 
+	5.2  Акции Virgin Australia за 2011 - 2020 годы. Источник: ASX, Investing.com https://www.investing.com/equities/virgin-australia-historical-data 
+	5.3  Акции Virgin Galactic за 2017 - 2020 годы. Источник: NYSE, Investing.com https://www.investing.com/equities/social-capital-hedosophia-historical-data
 
 ### Твиты собраны по следующим персоналиям:
 
