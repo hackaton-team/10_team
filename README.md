@@ -8,13 +8,13 @@
 
 ### По котировкам и акциям взяты следующие данные:
 
-1. Курс евро к доллару за 2012 - 2020 годы. Источник: официальные данные ЕЦБ
-2. Курс шекеля к евро и доллару за 2008 - 2020 годы. Источник: официальные данные банка Израиля
-3. Акции Microsoft за 1986 - 2020 годы. Источник: NASDAQ
-4. Акции Тesla за 2010 - 2020 годы. Источник: NASDAQ
-5. Акции Virgin America за 2014 - 2016 годы. Источник: NASDAQ
-Акции Virgin Australia за 2011 - 2020 годы. Источник: ASX
-Акции Virgin Galactic за 2017 - 2020 годы. Источник: NYSE
+1. Курс евро к доллару за 2012 - 2020 годы. Источник: официальные данные ЕЦБ https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/usd.xml
+2. Курс шекеля к евро и доллару за 2008 - 2020 годы. Источник: официальные данные банка Израиля https://www.boi.org.il/en/Markets/ExchangeRates/Pages/Default.aspx
+3. Акции Microsoft за 1986 - 2020 годы. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/quote/MSFT/history?p=MSFT
+4. Акции Тesla за 2010 - 2020 годы. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/quote/TSLA/history?p=TSLA
+5. Акции Virgin America за 2014 - 2016 годы. Источник: NASDAQ, Investing.com https://www.investing.com/equities/virgin-america-inc-historical-data 
+6. Акции Virgin Australia за 2011 - 2020 годы. Источник: ASX, Investing.com https://www.investing.com/equities/virgin-australia-historical-data 
+7. Акции Virgin Galactic за 2017 - 2020 годы. Источник: NYSE, Investing.com https://www.investing.com/equities/social-capital-hedosophia-historical-data
 
 ### Твиты собраны по следующим персоналиям:
 
