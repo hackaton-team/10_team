@@ -21,13 +21,13 @@
 
 ###### US Business leaders
 
-Jeff Weiner- LinkedIn @jeffweiner Joined February 2009   
-Tim Cook- Apple @tim_cook Joined July 2013  
+Jeff Weiner- LinkedIn @jeffweiner Joined February 2009.   
+Tim Cook- Apple @tim_cook Joined July 2013.   
 Bill Gates- Microsoft @BillGates Joined June 2009. 
 Michael Dell- Dell @MichaelDell Joined July 2009. 
 Mary Barra- GM @mtbarra Joined February 2013  
 Warren Buffett- Berkshire Hathaway @WarrenBuffett Joined April 2013. 
-Sundar Pichai- Google @sundarpichai CEO, Google and Alphabet Joined March 2008. 
+Sundar Pichai- Google @sundarpichai CEO, Google and Alphabet Joined March 2008.  
 
 ###### Asia/ China
 Jack Ma Founder of AlibabaGroup @JackMa Joined March 2020
