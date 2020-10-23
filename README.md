@@ -51,13 +51,13 @@ Oleg Tikov @olegtinkov Joined April 2009
 /
 |__/People
 |  |
-|  |__/Elon Musk
-|  |  |__elonmusk.json
-|  |  |__elonmusk.txt
+|  |__/elon_musk
+|  |  |__elon_musk.json
+|  |  |__elon_musk.txt
 |  |  
-|  |__/Bill Gates
-|  |  |__Bill Gates.json
-|  |  |__Bill Gates.txt
+|  |__/bill_gates
+|  |  |__bill_gates.json
+|  |  |__bill_gates.txt
 |  |
 |  |__/...
 |   
@@ -73,11 +73,11 @@ Oleg Tikov @olegtinkov Joined April 2009
 |
 |__/People_vs_Assets
    |
-   |__/Microsoft_Gates
-   |  |__microsoft_gates.csv
+   |__/gates_microsoft
+   |  |__gates_microsoft.csv
    |
-   |__/Tesla_Musk
-   |  |__tesla_musk.csv
+   |__/musk_tesla
+   |  |__musk_tesla.csv
    |
    |__/...
  ```
