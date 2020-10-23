@@ -209,10 +209,14 @@ Oleg Tikov @olegtinkov Joined April 2009
 ### Функция merging_custom
 Для облегчения построения сводных таблиц рекомендуется использовать функцию, определенную в файле merging_custom_function.py в корневом каталоге. Функцию можно использовать в своем коде на языке Python 3.
 
-merging_custom(json_paths: list, csv_paths: list,  output_path: str, additional_keys=None, columns_to_include=None)            
+merging_custom(json_paths: list,  
+              csv_paths: list,  
+              output_path: str,  
+              additional_keys=None,  
+              columns_to_include=None)           
                
 Параметры функции:
-json_paths - пути к json-файлам с твитами. Их может быть несколько. Данные должны передаваться списком.  
+#json_paths# - пути к json-файлам с твитами. Их может быть несколько. Данные должны передаваться списком.  
 csv_paths - пути к csv-файлам с котировками. Их может быть несколько. Данные должны передаваться списком.  
 output_path - путь к выходному csv-файлу (строка).   
 additional_keys (опциональный параметр) - список дополнительных полей json-файлов при необходимости включения их в выходной файл.  
