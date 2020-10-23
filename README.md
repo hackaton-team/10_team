@@ -8,7 +8,8 @@
 
 ### По котировкам и акциям взяты следующие данные:
 
-1. Курс евро к доллару за 2012 - 2020 годы. Источник: официальные данные ЕЦБ https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/usd.xml
+1. Курс фунт стерлингов к доллару, к евро, рублю. Источник: https://www.bankofengland.co.uk/
+2. Курс евро к доллару за 2012 - 2020 годы. Источник: официальные данные ЕЦБ https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/usd.xml
 2. Курс шекеля к евро и доллару за 2008 - 2020 годы. Источник: официальные данные банка Израиля https://www.boi.org.il/en/Markets/ExchangeRates/Pages/Default.aspx
 3. Акции Microsoft за 1986 - 2020 годы. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/quote/MSFT/history?p=MSFT
 4. Акции Тesla за 2010 - 2020 годы. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/quote/TSLA/history?p=TSLA
