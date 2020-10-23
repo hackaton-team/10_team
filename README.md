@@ -8,7 +8,7 @@
 
 ### По котировкам и акциям взяты следующие данные:
 
-1. Курс фунт стерлингов к доллару, к евро, рублю. Источник: официальные данные банка Англии https://www.bankofengland.co.uk/
+1. Курс фунта стерлингов к доллару, к евро, рублю. Источник: официальные данные банка Англии https://www.bankofengland.co.uk/
 2. Курс евро к доллару. Источник: официальные данные ЕЦБ https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/usd.xml
 3. Курс шекеля к евро и доллару. Источник: официальные данные банка Израиля https://www.boi.org.il/en/Markets/ExchangeRates/Pages/Default.aspx
 4. Акции Microsoft, Tesla, Apple, TCSG, Alibaba, Dell, Alphabet. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/
