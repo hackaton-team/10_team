@@ -8,15 +8,12 @@
 
 ### По котировкам и акциям взяты следующие данные:
 
-1. Курс фунт стерлингов к доллару, к евро, рублю. Источник: https://www.bankofengland.co.uk/
-2. Курс евро к доллару за 2012 - 2020 годы. Источник: официальные данные ЕЦБ https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/usd.xml
-2. Курс шекеля к евро и доллару за 2008 - 2020 годы. Источник: официальные данные банка Израиля https://www.boi.org.il/en/Markets/ExchangeRates/Pages/Default.aspx
-3. Акции Microsoft за 1986 - 2020 годы. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/quote/MSFT/history?p=MSFT
-4. Акции Тesla за 2010 - 2020 годы. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/quote/TSLA/history?p=TSLA
-5. Акции Virgin:
-	* Акции Virgin America за 2014 - 2016 годы. Источник: NASDAQ, Investing.com https://www.investing.com/equities/virgin-america-inc-historical-data 
-	* Акции Virgin Australia за 2011 - 2020 годы. Источник: ASX, Investing.com https://www.investing.com/equities/virgin-australia-historical-data 
-	* Акции Virgin Galactic за 2017 - 2020 годы. Источник: NYSE, Investing.com https://www.investing.com/equities/social-capital-hedosophia-historical-data
+1. Курс фунт стерлингов к доллару, к евро, рублю. Источник: официальные данные банка Англии https://www.bankofengland.co.uk/
+2. Курс евро к доллару. Источник: официальные данные ЕЦБ https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/usd.xml
+3. Курс шекеля к евро и доллару. Источник: официальные данные банка Израиля https://www.boi.org.il/en/Markets/ExchangeRates/Pages/Default.aspx
+4. Акции Microsoft, Tesla, Apple, TCSG, Alibaba, Dell, Alphabet. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/
+5. Акции Virgin America, Virgin Australia, Virgin Galactic. Источники: NASDAQ, Investing.com https://www.investing.com/equities/virgin-america-inc-historical-data, 
+    https://www.investing.com/equities/virgin-australia-historical-data,  https://www.investing.com/equities/social-capital-hedosophia-historical-data
 
 ### Твиты собраны по следующим персоналиям:
 
@@ -31,8 +28,7 @@ Warren Buffett- Berkshire Hathaway @WarrenBuffett Joined April 2013
 Sundar Pichai- Google @sundarpichai CEO, Google and Alphabet Joined March 2008    
 
 ###### Asia/ China
-Jack Ma Founder of AlibabaGroup @JackMa Joined March 2020
-
+Jack Ma Founder of AlibabaGroup @JackMa Joined March 2020  
 Ma Huateng @ma_tencent CEO of Tencent Holdings Limited Joined September 2017
 
 ###### Russian business leaders
@@ -41,13 +37,10 @@ Oleg Tikov @olegtinkov Joined April 2009
 
 ###### European politicians
 
-Emmanuel Macron France @EmmanuelMacron Joined October 2013
-
-Theresa May UK @theresa_may Joined June 2016
-
-Benjamin Netanyahu @netanyahu Prime Minister of Israel Joined October 2008
-
-Reuven Rivlin @PresidentRuvi live updates from the 10th President of the State of Israel - Joined November 2014
+Emmanuel Macron France @EmmanuelMacron Joined October 2013  
+Theresa May UK @theresa_may Joined June 2016  
+Benjamin Netanyahu @netanyahu Prime Minister of Israel Joined October 2008  
+Reuven Rivlin @PresidentRuvi live updates from the 10th President of the State of Israel - Joined November 2014  
 
 
 ### Структура датасета:
