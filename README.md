@@ -205,10 +205,10 @@ Oleg Tikov @olegtinkov Joined April 2009
  ```
 
 ### Наименования столбцов csv-файлов котировок:
-Date, Open_TICKER, High_TICKER, Low_TICKER, Close_TICKER ,Volume_TICKER
+Date, Open_TICKER, High_TICKER, Low_TICKER, Close_TICKER, Volume_TICKER
 ### Наименования столбцов csv-файлов курсов валют:
 Date, Currency_name
 ### Наименования столбцов csv-файла сводной таблицы::
-Date, Name, Tweets, Open_TICKER, High_TICKER, Low_TICKER, Close_TICKER ,Volume_TICKER
+Date, Name, Tweets, Open_TICKER, High_TICKER, Low_TICKER, Close_TICKER, Volume_TICKER
  
 
