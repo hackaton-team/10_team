@@ -12,7 +12,10 @@
 2. Курс евро к доллару. Источник: официальные данные ЕЦБ https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/usd.xml
 3. Курс шекеля к евро и доллару. Источник: официальные данные банка Израиля https://www.boi.org.il/en/Markets/ExchangeRates/Pages/Default.aspx
 4. Акции Microsoft, Tesla, Apple, TCSG, Alibaba, Dell, Alphabet. Источник: NASDAQ, Yahoo Finance https://finance.yahoo.com/
-5. Акции Virgin America, Virgin Australia, Virgin Galactic. Источники: NASDAQ, ASX, NYSE Investing.com https://www.investing.com/equities/virgin-america-inc-historical-data, https://www.investing.com/equities/virgin-australia-historical-data,  https://www.investing.com/equities/social-capital-hedosophia-historical-data
+5. Акции Virgin America, Virgin Australia, Virgin Galactic. Источники: NASDAQ, ASX, NYSE Investing.com
+  https://www.investing.com/equities/virgin-america-inc-historical-data  
+  https://www.investing.com/equities/virgin-australia-historical-data  
+  https://www.investing.com/equities/social-capital-hedosophia-historical-data  
 
 ### Твиты собраны по следующим персоналиям:
 
