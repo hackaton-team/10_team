@@ -78,9 +78,11 @@ Oleg Tikov @olegtinkov Joined April 2009
    |
    |__/gates_microsoft
    |  |__gates_microsoft.csv
+   |  |__MSFT_Close_vs_Gates_tweets.jpg
    |
    |__/musk_tesla
    |  |__musk_tesla.csv
+   |  |__TSLA_Close_vs_Musk_tweets.jpg
    |
    |__/...
  ```
