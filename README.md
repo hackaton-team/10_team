@@ -26,13 +26,9 @@ Mary Barra- GM @mtbarra Joined February 2013
 Warren Buffett- Berkshire Hathaway @WarrenBuffett Joined April 2013  
 Sundar Pichai- Google @sundarpichai CEO, Google and Alphabet Joined March 2008    
 
-###### Asia/ China
+###### Asia/China
 Jack Ma Founder of AlibabaGroup @JackMa Joined March 2020  
 Ma Huateng @ma_tencent CEO of Tencent Holdings Limited Joined September 2017
-
-###### Russian business leaders
-
-Oleg Tikov @olegtinkov Joined April 2009
 
 ###### European politicians
 
@@ -40,6 +36,10 @@ Emmanuel Macron France @EmmanuelMacron Joined October 2013
 Theresa May UK @theresa_may Joined June 2016  
 Benjamin Netanyahu @netanyahu Prime Minister of Israel Joined October 2008  
 Reuven Rivlin @PresidentRuvi live updates from the 10th President of the State of Israel - Joined November 2014  
+
+###### Russian business leader
+
+Oleg Tikov @olegtinkov Joined April 2009
 
 
 ### Структура датасета:
